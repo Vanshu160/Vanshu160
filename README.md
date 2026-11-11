@@ -62,7 +62,7 @@ My goal is to build more than just a Minecraft launcher — I want to create a c
 - Import and export control layouts.
 - In-game control editing overlay.
 
-### ⚡ High Performance — Inspired by Fast Minecraft Clients
+### ⚡ High Performance —
 
 My goal is to make Minecraft gameplay as smooth, responsive and efficient as possible on supported devices.
 
