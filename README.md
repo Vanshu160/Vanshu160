@@ -194,7 +194,39 @@ I use AI as a development to code, explore solutions, improve workflows, and bri
 - 🚀 Interested in creating useful and innovative projects.
 - 🤝 Open to learning, feedback and collaboration.
 
----
+## 📍 Current Development Status
+
+**Status: Early Development / Experimental Testing 🚧**
+
+Void Launcher is currently in its early development stage. The main focus is building a stable Minecraft Java Edition launch experience on Android.
+
+### ✅ Completed & Verified
+
+- Initial Android launcher debug APK build.
+- Java 21 runtime integration.
+- LWJGL 3.3.3 ARM64 native library download and validation.
+- JNA native integration.
+- GitHub Actions Android build pipeline.
+- GLFW Android JNI initialization fix — callback confirmed during device testing.
+
+### 🔄 Currently Working On
+
+- Investigating Minecraft 1.21.11 startup and early exit.
+- Improving JVM and Minecraft diagnostic logging.
+- Completing Android game-window and rendering integration.
+- Testing native library compatibility.
+- Stabilizing the Minecraft launch process.
+
+### 🔮 Future Development
+
+- Custom Void Performance Engine.
+- Feather Client-inspired in-game features.
+- Advanced Zalith-style touch controls.
+- Modrinth integration.
+- Performance optimization and renderer selection.
+- Windows launcher edition.
+
+**Important:** Minecraft has not yet been confirmed to launch successfully into playable gameplay. Features listed under future development are planned, not completed.
 
 ## 🌌 My Vision
 
