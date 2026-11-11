@@ -6,7 +6,7 @@ I'm a beginner developer passionate about Android development, Minecraft, and AI
 
 I enjoy turning ideas into real projects, exploring new technologies, solving problems, and continuously learning.
 
-I use AI tools like **Claude AI** to assist with coding, debugging, learning, and project development.
+I use AI tools like **Claude AI** to assist with code, debugging, learning,code analysis and project development.
 
 ---
 
@@ -38,7 +38,7 @@ My goal is to build more than just a Minecraft launcher — I want to create a c
 - Resource pack and shader support.
 - Mod-loader and version compatibility information.
 
-### 🏆 Client-Like Features — Inspired by Feather Client
+### 🏆 Client-Like Features — 
 
 - Customizable in-game HUD and overlays.
 - FPS, coordinates, CPS and performance indicators.
@@ -50,7 +50,7 @@ My goal is to build more than just a Minecraft launcher — I want to create a c
 - Multiplayer-friendly quality-of-life features.
 - Custom themes and client configurations.
 
-### 🎯 Advanced Touch Controls — Inspired by Zalith
+### 🎯 Advanced Touch Controls — 
 
 - Fully customizable touch controls.
 - Add, remove, move and resize buttons.
@@ -101,7 +101,7 @@ My goal is to make Minecraft gameplay as smooth, responsive and efficient as pos
 - Easy-to-use dashboard and settings.
 ### 🧠 Void Performance Engine — My Own Performance System
 
-One of my biggest goals is to develop a dedicated performance and rendering optimization system for Void Launcher.
+One of my goals is to develop a dedicated performance and rendering optimization system for Void Launcher.
 
 The goal is to make better use of available hardware by reducing unnecessary CPU overhead and improving GPU utilization wherever possible.
 
@@ -159,7 +159,7 @@ Planned Windows direction:
 
 ## 🤖 AI Tools I Use
 
-- **Claude AI** — AI-assisted coding, debugging, code analysis and development.
+- **Claude AI** "**Open-Code** — AI-assisted  debugging, code analysis and development.
   
 
 I use AI as a development to code, explore solutions, improve workflows, and bring my ideas to life.
@@ -221,7 +221,7 @@ Void Launcher is currently in its early development stage. The main focus is bui
 
 - Custom Void Performance Engine.
 - Feather Client-inspired in-game features.
-- Advanced Zalith-style touch controls.
+- Advanced style touch controls.
 - Modrinth integration.
 - Performance optimization and renderer selection.
 - Windows launcher edition.
@@ -230,7 +230,7 @@ Void Launcher is currently in its early development stage. The main focus is bui
 
 ## 🌌 My Vision
 
-To create a powerful, customizable, and performance-focused Minecraft gaming ecosystem for **Android and Windows**.
+To create a powerful, customizable, and performance-focused Minecraft launcher for **Android and Windows**.
 
 Combining the freedom of a launcher, the features of a custom client, advanced mobile controls, and a smooth desktop experience.
 
