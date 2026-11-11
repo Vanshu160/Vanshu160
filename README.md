@@ -177,14 +177,6 @@ I use AI as a development to code, explore solutions, improve workflows, and bri
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanshu160&show_icons=true&theme=midnight-purple&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshu160&layout=compact&theme=midnight-purple&hide_border=true)
-
----
-
 ## 💜 A Little About Me
 
 - 🌱 Always learning and improving.
