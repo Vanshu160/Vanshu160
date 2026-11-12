@@ -99,7 +99,7 @@ My goal is to make Minecraft gameplay as smooth, responsive and efficient as pos
 - Clean navigation.
 - Responsive mobile-first design.
 - Easy-to-use dashboard and settings.
-### 🧠 Void Performance Engine — My Own Performance System
+### 🧠 Void Performance Engine VoidCore — My Own Performance System
 
 One of my goals is to develop a dedicated performance and rendering optimization system for Void Launcher.
 
